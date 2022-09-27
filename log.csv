@@ -1,0 +1,5 @@
+26-Sep-22 13:48:15,WARNING,_log, * Debugger is active!
+26-Sep-22 13:48:15,INFO,_log, * Debugger PIN: 427-748-376
+26-Sep-22 13:48:20,DEBUG,create,task added,2 
+26-Sep-22 13:48:23,DEBUG,delete,task deleted,2 
+26-Sep-22 13:48:27,DEBUG,update,updated added,1 
