@@ -67,7 +67,7 @@ Resources:
      VpcId: !Ref 'VPC'
      GroupDescription: for ecs containers
      SecurityGroupIngress:
-       - CidrIp: 0.0.0.0/0
+       - CidrIp: 10.0.0.0/16
          IpProtocol: -1
 Outputs:
 
