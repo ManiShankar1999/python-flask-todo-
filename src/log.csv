@@ -1,0 +1,11 @@
+02-Oct-22 17:20:18,WARNING, * Debugger is active!
+02-Oct-22 17:20:18,INFO, * Debugger PIN: 124-119-699
+02-Oct-22 17:20:25,DEBUG,task added,1 
+02-Oct-22 17:20:26,DEBUG,updated added,1 
+02-Oct-22 17:20:27,DEBUG,task deleted,1 
+02-Oct-22 17:20:32,DEBUG,task added,2 
+02-Oct-22 17:20:33,DEBUG,task added,3 
+02-Oct-22 17:20:33,DEBUG,task added,1 
+02-Oct-22 17:20:35,DEBUG,task deleted,1 
+02-Oct-22 17:20:37,DEBUG,task deleted,2 
+02-Oct-22 17:20:38,DEBUG,task deleted,3 
